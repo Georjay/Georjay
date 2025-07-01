@@ -1,7 +1,14 @@
-- 👋 Hi, I'm George Addai.
-- 🌱 Passionate software developer with a focus on cybersecurity and digital solutions. Experienced in building secure web applications with Django, automating processes, and solving real-world problems.
-- 👀 Always exploring new technologies and contributing to open-source projects.
-- 📫 Let’s build something amazing!
+👋 Hi, I'm George!
+
+I’m an Administrative Developer—building internal tools, automating workflows, and solving real-world problems with clean, functional code. I work primarily with Django and enjoy creating practical web applications that make everyday tasks easier.
+
+🛠 I build tools that streamline operations and improve productivity.
+
+🔍 Currently exploring prompt engineering, AI integrations, and smart internal systems.
+
+🚀 Let’s collaborate and build something meaningful.
+
+<!--- 📫 Reach me via LinkedIn or Twitter! --->
 
 <!---
 Georjay/Georjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
