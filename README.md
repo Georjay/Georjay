@@ -1,6 +1,6 @@
 👋 Hi, I'm George!
 
-I’m an Administrative Developer—building internal tools, automating workflows, and solving real-world problems with clean, functional code. I work primarily with Django and enjoy creating practical web applications that make everyday tasks easier.
+I’m a Full Stack Developer—building internal tools, automating workflows, and solving real-world problems with clean, functional code. I work primarily with Django and enjoy creating practical web applications that make everyday tasks easier.
 
 🛠 I build tools that streamline operations and improve productivity.
 
