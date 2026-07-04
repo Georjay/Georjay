@@ -1,16 +1,21 @@
-👋 Hi, I'm George!
+# 👋 Hi, I'm George!
 
-I’m a Full Stack Developer—building internal tools, automating workflows, and solving real-world problems with clean, functional code. I work primarily with Django and enjoy creating practical web applications that make everyday tasks easier.
+I'm a **Full Stack Developer** who enjoys building internal tools, automating workflows, and solving real-world problems with clean, maintainable code. I primarily work with **Django** and love creating practical web applications that simplify everyday processes.
 
-🛠 I build tools that streamline operations and improve productivity.
+## 🛠 What I Build
 
-🔍 Currently exploring prompt engineering, AI integrations, and smart internal systems.
+* Internal tools that streamline operations
+* Workflow automation solutions
+* Full-stack web applications
+* Productivity-focused software
 
-🚀 Let’s collaborate and build something meaningful.
+## 🌱 Currently Exploring
 
-<!--- 📫 Reach me via LinkedIn or Twitter! --->
+* Web3
+* AI integrations
+* Prompt engineering
+* Intelligent internal systems
 
-<!---
-Georjay/Georjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Let's Build Together
+
+I'm always interested in collaborating on projects that solve meaningful problems through technology.
